@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1674994487 source:c:\users\fadhil abdillah\documents\project uaz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<fstream>
+	<limits>
+
